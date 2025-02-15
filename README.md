@@ -1,5 +1,12 @@
-# 💫 About Me:
+# 💫 It's Me:
 👋 Hi, I'm Avijit Pakhira!<br>🚀 AI & ML Enthusiast | Full-Stack Developer | Data Scientist<br><br>I am a passionate B.Tech CSE student at JIS University with expertise in Machine Learning, AI, and Full-Stack Development. My work spans from AI-driven solutions to real-time web applications, focusing on automation, efficiency, and innovation.
+
+## 💡 What I Do:
+- 🔍 **Machine Learning & AI** – Computer vision, deep learning, predictive analytics  
+- 🌐 **Full-Stack Development** – Python (Django), SQL, HTML/CSS, JavaScript  
+- 🤖 **Computer Vision** – OpenCV, YOLO, real-time object detection  
+- 📊 **Data Science** – Data preprocessing, feature selection, model training  
+- 🛠️ **IoT & Automation** – Smart systems using NodeMCU and sensors  
 
 
 ## 🌐 Socials:

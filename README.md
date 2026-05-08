@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=avijit-28&label=Profile%20Views&color=6&icon=5&pretty=true)](https://avijit-info.netlify.app/)
+[![Profile Views](https://visitcount.itsvg.in/api?id=avijit-28&label=Profile%20Views&color=6&icon=5&pretty=true)](https://avijit-info.netlify.app) 
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/avijit-28?label=Followers&style=social)](https://github.com/avijit-28)
 &nbsp;

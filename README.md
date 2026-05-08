@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Avijit%20Pakhira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20%7C%20Data%20Scientist&descAlignY=55&descSize=16" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Avijit%20Pakhira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20%7C%20Data%20Scientist&descAlignY=55&descSize=16" /> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%26+Deep+Learning+%F0%9F%A7%A0;Full-Stack+Web+Developer+%F0%9F%8C%90;IoT+%26+Automation+Engineer+%F0%9F%9B%A0%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 

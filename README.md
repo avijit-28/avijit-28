@@ -5,9 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%26+Deep+Learning+%F0%9F%A7%A0;Web+Developer+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
-<a href="https://avijit-info.netlify.app">
-  <img src="https://visitcount.itsvg.in/api?id=avijit-28&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</a>
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=avijit-28&label=Profile%20Views&color=6&icon=5&pretty=true)](https://avijit-info.netlify.app) 
 
